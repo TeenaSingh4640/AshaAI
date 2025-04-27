@@ -16,3 +16,6 @@ A career generator, visualizer, and simulator that helps users map personalized 
 
 4. Bias Interruption
 Delivers real-time suggestions to promote inclusive language and decision-making, helping to interrupt unconscious bias and foster a more equitable career environment.
+![WhatsApp Image 2025-04-27 at 13 16 20_cb0a8653](https://github.com/user-attachments/assets/44639ddb-fbbb-45cd-b201-447b3858d2ff)
+![WhatsApp Image 2025-04-27 at 13 16 25_2c365ec3](https://github.com/user-attachments/assets/9fb8559a-02c8-4b00-8a25-dd771646108b)![WhatsApp Image 2025-04-27 at 13 16 25_67a9fbae](https://github.com/user-attachments/assets/e0fea377-66e2-42ac-8b44-5ab244fed154)
+
